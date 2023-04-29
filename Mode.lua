@@ -2,7 +2,7 @@ _G.Mode = {
     Normal = "https://raw.githubusercontent.com/Varomine/Delta-Hub/main/loadder.lua",
 }
 
-local function Selected(mode)
+function Selected(mode)
     if mode == "Normal" then
         _G.Selected = _G.Mode.Normal
     else
