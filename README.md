@@ -1,8 +1,7 @@
 ```
 ** Script **
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Varomine/Delta-Hub/main/API.lua"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Varomine/Delta-Hub/main/loadder.lua"))({req="api"});
+loadstring(game:HttpGet("https://pastebin.com/raw/cZJS6hJR"))()
 
 ** Support Game **
 
