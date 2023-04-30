@@ -1,4 +1,4 @@
---[[
+
     ** Support Game **
 
     World // Zero : 2727067538
@@ -10,4 +10,4 @@
     ** Discord **
 
     Soon...
-]]
+
