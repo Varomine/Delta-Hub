@@ -1,4 +1,5 @@
-```** Script **
+```
+** Script **
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Varomine/Delta-Hub/main/API.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Varomine/Delta-Hub/main/loadder.lua"))({req="api"});
