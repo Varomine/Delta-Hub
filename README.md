@@ -14,5 +14,5 @@ Lucky Blocks : 662417684
 
 ** Discord **
 
-Soon...```
+Soon...
 
