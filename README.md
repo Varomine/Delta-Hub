@@ -1,4 +1,4 @@
-```
+```lua
 ** Script **
 
 loadstring(game:HttpGet("https://pastebin.com/raw/cZJS6hJR"))()
@@ -13,5 +13,5 @@ Lucky Blocks : 662417684
 
 ** Discord **
 
-Soon...
+https://discord.gg/JpTNeMkbSp
 
